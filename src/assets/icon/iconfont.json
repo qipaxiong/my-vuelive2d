@@ -1,0 +1,51 @@
+{
+  "id": "2080613",
+  "name": "live2d",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "84276",
+      "name": "对话",
+      "font_class": "duihua",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "1193407",
+      "name": "皮肤",
+      "font_class": "skin",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "4040674",
+      "name": "about",
+      "font_class": "about",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "9546119",
+      "name": "拍照",
+      "font_class": "scrm-app-icon_huabanfuben",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "10375019",
+      "name": "home",
+      "font_class": "zhuye",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "11758122",
+      "name": "对话",
+      "font_class": "duihua1",
+      "unicode": "e740",
+      "unicode_decimal": 59200
+    }
+  ]
+}
